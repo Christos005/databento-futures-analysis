@@ -1,0 +1,12 @@
+# Secrets: never commit your API key
+.env
+
+# Downloaded market data (licensed, and re-downloadable)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
